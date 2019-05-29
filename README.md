@@ -17,3 +17,28 @@ Before you open source your project, consider the effort required to maintain it
 ## FAQ
 
 #### Who owns the code I contribute to open source projects?
+
+### What is the purpose of this repository?
+
+Learn to create an open source program.
+
+### Who should someone contact if they have questions?
+
+The GitHub Training Team.
+
+### How should someone make contact if they have questions?
+
+Contact:
+
+[The GitHub Training Team on GitHub](https://lab.github.com/githubtraining)
+
+http://services.github.com/on-demand   
+services@github.com
+
+### What are the first steps to getting started open sourcing a project?
+
+By establish preliminary goals.
+
+### How does this repository relate to other projects and business goals?
+
+You can learn about GitHub by taking the course from GitHub Learning Lab.
